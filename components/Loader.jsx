@@ -5,7 +5,7 @@ const Loader = () => {
     <div className="loader">
       <div className="loader-inner">
         {" "}
-        <h3>Just A Sec</h3>
+ 
       </div>
     </div>
   );
